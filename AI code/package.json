@@ -1,0 +1,21 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "Hello",
+  "main": "dsa",
+  "scripts": {
+    "test": "hello Himanshu"
+  },
+  "repository": {
+    "type": "module",
+    "url": "none"
+  },
+  "keywords": [
+    "ok"
+  ],
+  "author": "Himanshu",
+  "license": "MIT",
+  "dependencies": {
+    "@google/genai": "^1.4.0"
+  }
+}
